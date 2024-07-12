@@ -15,4 +15,4 @@
 
 
 ## ⚙️ Support 
-[discord](https://discord.gg/zMq4kqkcv8)
+* [discord](https://discord.gg/zMq4kqkcv8)
