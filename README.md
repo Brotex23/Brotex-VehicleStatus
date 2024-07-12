@@ -1,7 +1,7 @@
 # **Brotex Vehicle Status** 
 
 ## 📌 Video 
-[Video Preview](https://www.youtube.com/watch?v=jPFXQr8EaEc)
+[Video Preview](https://youtu.be/7HE6ozIgLos)
 
 ## 🚨 Requirements
 
