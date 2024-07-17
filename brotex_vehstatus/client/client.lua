@@ -54,7 +54,7 @@ end)
 
 RegisterNetEvent('brotex:vehstatus', function()
     local vehicle = ESX.Game.GetClosestVehicle(vehicle)
-    local fuelLevel = exports[Brotex.Fuel]:GetFuel(vehicle)
+    local fuelLevel = Entity(vehicle).state.fuel
     engineHealth = GetVehicleEngineHealth(vehicle)
     bodyHealth = GetVehicleBodyHealth(vehicle)
     vehTemp = GetVehicleEngineTemperature(vehicle)
